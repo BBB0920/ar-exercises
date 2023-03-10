@@ -1,3 +1,6 @@
+# Refer to https://edgeguides.rubyonrails.org/active_record_basics.html
+# for ActiveRecord's methods
+
 require_relative '../setup'
 
 puts "Exercise 1"
